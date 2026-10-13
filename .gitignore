@@ -4,3 +4,10 @@
 projects/**/*.mp4
 projects/**/*.mov
 projects/**/*.wav
+
+# licensed fonts (extracted from v4 project) - keep out of the public repo
+projects/**/Assets/fonts/
+
+__pycache__/
+projects/**/.tesseract-work/src/
+projects/**/.tesseract-work/checks/

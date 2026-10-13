@@ -1,0 +1,6422 @@
+[
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 2,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k1",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 225
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k2",
+    "layerTime": 560,
+    "value": {
+     "type": "float",
+     "value": 185
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   },
+   {
+    "id": "k3",
+    "layerTime": 1820,
+    "value": {
+     "type": "float",
+     "value": 189.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 2,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k4",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 225
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k5",
+    "layerTime": 560,
+    "value": {
+     "type": "float",
+     "value": 185
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   },
+   {
+    "id": "k6",
+    "layerTime": 1820,
+    "value": {
+     "type": "float",
+     "value": 189.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 6,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k7",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k8",
+    "layerTime": 156,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 6,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k9",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 240
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k10",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 200
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 7,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k11",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k12",
+    "layerTime": 156,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 7,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k13",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 330
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k14",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 290
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 10,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k15",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k16",
+    "layerTime": 1624,
+    "value": {
+     "type": "float",
+     "value": 102
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 10,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k17",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k18",
+    "layerTime": 1624,
+    "value": {
+     "type": "float",
+     "value": 102
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 11,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k19",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k20",
+    "layerTime": 150,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 12,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k21",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 150
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k22",
+    "layerTime": 220,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 12,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k23",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 150
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k24",
+    "layerTime": 220,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 12,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k25",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k26",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 13,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k27",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 150
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k28",
+    "layerTime": 220,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 13,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k29",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 150
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k30",
+    "layerTime": 220,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 13,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k31",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k32",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 24,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k33",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 215.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k34",
+    "layerTime": 824,
+    "value": {
+     "type": "float",
+     "value": 220.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 24,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k35",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 215.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k36",
+    "layerTime": 824,
+    "value": {
+     "type": "float",
+     "value": 220.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 28,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k37",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 120
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k38",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 28,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k39",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 120
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k40",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 28,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k41",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k42",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 31,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k43",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k44",
+    "layerTime": 1850,
+    "value": {
+     "type": "float",
+     "value": 102
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 31,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k45",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k46",
+    "layerTime": 1850,
+    "value": {
+     "type": "float",
+     "value": 102
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 33,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k47",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k48",
+    "layerTime": 180,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 33,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k49",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 156
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k50",
+    "layerTime": 300,
+    "value": {
+     "type": "float",
+     "value": 126
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 34,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k51",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k52",
+    "layerTime": 180,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 34,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k53",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 156
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k54",
+    "layerTime": 300,
+    "value": {
+     "type": "float",
+     "value": 126
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 35,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k55",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k56",
+    "layerTime": 180,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 35,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k57",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 156
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k58",
+    "layerTime": 300,
+    "value": {
+     "type": "float",
+     "value": 126
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 36,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k59",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k60",
+    "layerTime": 180,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 36,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k61",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 606
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k62",
+    "layerTime": 300,
+    "value": {
+     "type": "float",
+     "value": 576
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 37,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k63",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k64",
+    "layerTime": 180,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 37,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k65",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 606
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k66",
+    "layerTime": 300,
+    "value": {
+     "type": "float",
+     "value": 576
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 38,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k67",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k68",
+    "layerTime": 180,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 38,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k69",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 606
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k70",
+    "layerTime": 300,
+    "value": {
+     "type": "float",
+     "value": 576
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 39,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k71",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k72",
+    "layerTime": 180,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 39,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k73",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 606
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k74",
+    "layerTime": 300,
+    "value": {
+     "type": "float",
+     "value": 576
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 40,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k75",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k76",
+    "layerTime": 180,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 40,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k77",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 606
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k78",
+    "layerTime": 300,
+    "value": {
+     "type": "float",
+     "value": 576
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 41,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k79",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k80",
+    "layerTime": 180,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 41,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k81",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 606
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k82",
+    "layerTime": 300,
+    "value": {
+     "type": "float",
+     "value": 576
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 42,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k83",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k84",
+    "layerTime": 180,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 43,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k85",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k86",
+    "layerTime": 180,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 44,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k87",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k88",
+    "layerTime": 180,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 45,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k89",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 115
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k90",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 45,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k91",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 115
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k92",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 45,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k93",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k94",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 46,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k95",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 125
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k96",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 46,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k97",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 125
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k98",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 46,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k99",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k100",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 47,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k101",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 125
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k102",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 47,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k103",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 125
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k104",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 47,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k105",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k106",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 58,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k107",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k108",
+    "layerTime": 2399,
+    "value": {
+     "type": "float",
+     "value": 101.5
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 58,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k109",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k110",
+    "layerTime": 2399,
+    "value": {
+     "type": "float",
+     "value": 101.5
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 58,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k111",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k112",
+    "layerTime": 156,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 58,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k113",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 520.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k114",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 480.0
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 60,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k115",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k116",
+    "layerTime": 156,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 60,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k117",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 376.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k118",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 336.0
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 71,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k119",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k120",
+    "layerTime": 156,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 71,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k121",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 210
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k122",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 170
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 72,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k123",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k124",
+    "layerTime": 180,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 72,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k125",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 224
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k126",
+    "layerTime": 300,
+    "value": {
+     "type": "float",
+     "value": 200
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 73,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k127",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 125
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k128",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 73,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k129",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 125
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k130",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 73,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k131",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k132",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 74,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k133",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k134",
+    "layerTime": 140,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 76,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k135",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k136",
+    "layerTime": 180,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 76,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k137",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 414
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k138",
+    "layerTime": 300,
+    "value": {
+     "type": "float",
+     "value": 390
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 77,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k139",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k140",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 78,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k141",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 130
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k142",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 78,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k143",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 130
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k144",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 78,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k145",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k146",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 89,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k147",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k148",
+    "layerTime": 2925,
+    "value": {
+     "type": "float",
+     "value": 101.5
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 89,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k149",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k150",
+    "layerTime": 2925,
+    "value": {
+     "type": "float",
+     "value": 101.5
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 89,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k151",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k152",
+    "layerTime": 156,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 89,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k153",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 520.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k154",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 480.0
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 91,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k155",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k156",
+    "layerTime": 156,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 91,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k157",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 314.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k158",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 274.0
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 92,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k159",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 140
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k160",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 92,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k161",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 140
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k162",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 92,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k163",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k164",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 93,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k165",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 140
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k166",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 93,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k167",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 140
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k168",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 93,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k169",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k170",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 104,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k171",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k172",
+    "layerTime": 1929,
+    "value": {
+     "type": "float",
+     "value": 102
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 104,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k173",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k174",
+    "layerTime": 1929,
+    "value": {
+     "type": "float",
+     "value": 102
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 105,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k175",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k176",
+    "layerTime": 150,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 106,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k177",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k178",
+    "layerTime": 150,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 122,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k179",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k180",
+    "layerTime": 711,
+    "value": {
+     "type": "float",
+     "value": 102
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 122,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k181",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k182",
+    "layerTime": 711,
+    "value": {
+     "type": "float",
+     "value": 102
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 124,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k183",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k184",
+    "layerTime": 1126,
+    "value": {
+     "type": "float",
+     "value": 101.5
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 124,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k185",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k186",
+    "layerTime": 1126,
+    "value": {
+     "type": "float",
+     "value": 101.5
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 124,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k187",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k188",
+    "layerTime": 156,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 124,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k189",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 520.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k190",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 480.0
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 126,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k191",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k192",
+    "layerTime": 156,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 126,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k193",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 242.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k194",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 202.0
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 137,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k195",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 185.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k196",
+    "layerTime": 2124,
+    "value": {
+     "type": "float",
+     "value": 190.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 137,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k197",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 185.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k198",
+    "layerTime": 2124,
+    "value": {
+     "type": "float",
+     "value": 190.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 141,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k199",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 120
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k200",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 141,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k201",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 120
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k202",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 141,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k203",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k204",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 142,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k205",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 120
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k206",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 142,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k207",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 120
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k208",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 142,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k209",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k210",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 143,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k211",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k212",
+    "layerTime": 220,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 144,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k213",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 120
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k214",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 144,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k215",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 120
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k216",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 144,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k217",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k218",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 145,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k219",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 120
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k220",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 145,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k221",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 120
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k222",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 145,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k223",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k224",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 146,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k225",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k226",
+    "layerTime": 220,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 147,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k227",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k228",
+    "layerTime": 168,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 147,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k229",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 330
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k230",
+    "layerTime": 280,
+    "value": {
+     "type": "float",
+     "value": 300
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 150,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k231",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k232",
+    "layerTime": 993,
+    "value": {
+     "type": "float",
+     "value": 102
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 150,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k233",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k234",
+    "layerTime": 993,
+    "value": {
+     "type": "float",
+     "value": 102
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 161,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k235",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 130
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k236",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 161,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k237",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 130
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k238",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 161,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k239",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k240",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 162,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k241",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 130
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k242",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 162,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k243",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 130
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k244",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 162,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k253",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k254",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k255",
+    "layerTime": 600,
+    "value": {
+     "type": "float",
+     "value": 35
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k256",
+    "layerTime": 1000,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 163,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k247",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 130
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k248",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 163,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k249",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 130
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k250",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 163,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k251",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k252",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 164,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k257",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k258",
+    "layerTime": 3128,
+    "value": {
+     "type": "float",
+     "value": 102
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 164,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k259",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k260",
+    "layerTime": 3128,
+    "value": {
+     "type": "float",
+     "value": 102
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 166,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k261",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 197.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k262",
+    "layerTime": 1431,
+    "value": {
+     "type": "float",
+     "value": 202.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 166,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k263",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 197.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k264",
+    "layerTime": 1431,
+    "value": {
+     "type": "float",
+     "value": 202.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 170,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k265",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k266",
+    "layerTime": 156,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 170,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k267",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 240
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k268",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 200
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 171,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k269",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k270",
+    "layerTime": 156,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 171,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k271",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 330
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k272",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 290
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 174,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k281",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k282",
+    "layerTime": 160,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k283",
+    "layerTime": 2740,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k284",
+    "layerTime": 2990,
+    "value": {
+     "type": "float",
+     "value": 30
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 174,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k275",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 140
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k276",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 110
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 175,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k285",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k286",
+    "layerTime": 160,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k287",
+    "layerTime": 2740,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k288",
+    "layerTime": 2990,
+    "value": {
+     "type": "float",
+     "value": 30
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 175,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k279",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 140
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k280",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 110
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 176,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k297",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k298",
+    "layerTime": 160,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k299",
+    "layerTime": 2200,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k300",
+    "layerTime": 2450,
+    "value": {
+     "type": "float",
+     "value": 30
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 176,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k291",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 258
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k292",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 228
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 177,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k301",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k302",
+    "layerTime": 160,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k303",
+    "layerTime": 2200,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k304",
+    "layerTime": 2450,
+    "value": {
+     "type": "float",
+     "value": 30
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 177,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k295",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 258
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k296",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 228
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 178,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k313",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k314",
+    "layerTime": 160,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k315",
+    "layerTime": 1780,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k316",
+    "layerTime": 2030,
+    "value": {
+     "type": "float",
+     "value": 30
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 178,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k307",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 376
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k308",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 346
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 179,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k317",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k318",
+    "layerTime": 160,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k319",
+    "layerTime": 1780,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k320",
+    "layerTime": 2030,
+    "value": {
+     "type": "float",
+     "value": 30
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 179,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k311",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 376
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k312",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 346
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 180,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k321",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 140
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k322",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 180,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k323",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 140
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k324",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 180,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k325",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k326",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 181,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k327",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k328",
+    "layerTime": 156,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 181,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k329",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 400
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k330",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 380
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 182,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k331",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k332",
+    "layerTime": 192,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 182,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k333",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 600
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k334",
+    "layerTime": 320,
+    "value": {
+     "type": "float",
+     "value": 560
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 183,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k335",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k336",
+    "layerTime": 192,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 183,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k337",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 650
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k338",
+    "layerTime": 320,
+    "value": {
+     "type": "float",
+     "value": 610
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 184,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k339",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k340",
+    "layerTime": 192,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 184,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k341",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 650
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k342",
+    "layerTime": 320,
+    "value": {
+     "type": "float",
+     "value": 610
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 185,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k343",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k344",
+    "layerTime": 192,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 185,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k345",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 640
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k346",
+    "layerTime": 320,
+    "value": {
+     "type": "float",
+     "value": 600
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 186,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k347",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k348",
+    "layerTime": 192,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 186,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k349",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 700
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k350",
+    "layerTime": 320,
+    "value": {
+     "type": "float",
+     "value": 660
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 197,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k351",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 197.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k352",
+    "layerTime": 1498,
+    "value": {
+     "type": "float",
+     "value": 202.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 197,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k353",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 197.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k354",
+    "layerTime": 1498,
+    "value": {
+     "type": "float",
+     "value": 202.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 202,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k355",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 185.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k356",
+    "layerTime": 2279,
+    "value": {
+     "type": "float",
+     "value": 190.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 202,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k357",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 185.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k358",
+    "layerTime": 2279,
+    "value": {
+     "type": "float",
+     "value": 190.0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 210,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k359",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k360",
+    "layerTime": 156,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 210,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k361",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 160
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k362",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 120
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 211,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k363",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k364",
+    "layerTime": 156,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 211,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k365",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 240
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k366",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 200
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 212,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k367",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k368",
+    "layerTime": 156,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 212,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k369",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 450
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k370",
+    "layerTime": 260,
+    "value": {
+     "type": "float",
+     "value": 410
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 222,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k371",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k372",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 223,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k373",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k374",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 224,
+   "propertyType": "positionX"
+  },
+  "keyframes": [
+   {
+    "id": "k375",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 1010
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k376",
+    "layerTime": 600,
+    "value": {
+     "type": "float",
+     "value": 918
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 224,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k377",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 700
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k378",
+    "layerTime": 600,
+    "value": {
+     "type": "float",
+     "value": 472
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 224,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k379",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k380",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k381",
+    "layerTime": 780,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k382",
+    "layerTime": 900,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 224,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k383",
+    "layerTime": 690,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k384",
+    "layerTime": 740,
+    "value": {
+     "type": "float",
+     "value": 82
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k385",
+    "layerTime": 800,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 224,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k386",
+    "layerTime": 690,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k387",
+    "layerTime": 740,
+    "value": {
+     "type": "float",
+     "value": 82
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k388",
+    "layerTime": 800,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 225,
+   "propertyType": "positionX"
+  },
+  "keyframes": [
+   {
+    "id": "k389",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 1010
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k390",
+    "layerTime": 600,
+    "value": {
+     "type": "float",
+     "value": 918
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 225,
+   "propertyType": "positionY"
+  },
+  "keyframes": [
+   {
+    "id": "k391",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 700
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k392",
+    "layerTime": 600,
+    "value": {
+     "type": "float",
+     "value": 472
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 225,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k393",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k394",
+    "layerTime": 120,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k395",
+    "layerTime": 780,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k396",
+    "layerTime": 900,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 225,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k397",
+    "layerTime": 690,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k398",
+    "layerTime": 740,
+    "value": {
+     "type": "float",
+     "value": 82
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k399",
+    "layerTime": 800,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 225,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k400",
+    "layerTime": 690,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k401",
+    "layerTime": 740,
+    "value": {
+     "type": "float",
+     "value": 82
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k402",
+    "layerTime": 800,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ }
+]
