@@ -1,0 +1,158 @@
+[
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 30,
+   "propertyType": "scaleX"
+  },
+  "keyframes": [
+   {
+    "id": "k1",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 60
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k2",
+    "layerTime": 220,
+    "value": {
+     "type": "float",
+     "value": 108
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   },
+   {
+    "id": "k3",
+    "layerTime": 340,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.25,
+     "y1": 0.1,
+     "x2": 0.25,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 30,
+   "propertyType": "scaleY"
+  },
+  "keyframes": [
+   {
+    "id": "k4",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 60
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k5",
+    "layerTime": 220,
+    "value": {
+     "type": "float",
+     "value": 108
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.16,
+     "y1": 1,
+     "x2": 0.3,
+     "y2": 1
+    }
+   },
+   {
+    "id": "k6",
+    "layerTime": 340,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "cubicBezier",
+     "x1": 0.25,
+     "y1": 0.1,
+     "x2": 0.25,
+     "y2": 1
+    }
+   }
+  ]
+ },
+ {
+  "type": "setFxPropertyKeyframes",
+  "compositionId": "main",
+  "property": {
+   "layerId": 30,
+   "propertyType": "opacity"
+  },
+  "keyframes": [
+   {
+    "id": "k7",
+    "layerTime": 0,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k8",
+    "layerTime": 90,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k9",
+    "layerTime": 2180,
+    "value": {
+     "type": "float",
+     "value": 100
+    },
+    "easing": {
+     "type": "linear"
+    }
+   },
+   {
+    "id": "k10",
+    "layerTime": 2300,
+    "value": {
+     "type": "float",
+     "value": 0
+    },
+    "easing": {
+     "type": "linear"
+    }
+   }
+  ]
+ }
+]

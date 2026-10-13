@@ -1,0 +1,1564 @@
+{
+ "$schema": "https://jerboa.dev/schemas/fx-composition/editable/v1/document.schema.json",
+ "formatVersion": 1,
+ "dimensions": {
+  "width": 1080,
+  "height": 1920
+ },
+ "duration": 33.8,
+ "composition": {
+  "id": "main",
+  "name": "Main",
+  "layers": [
+   {
+    "type": "Group",
+    "id": 30,
+    "name": "CTA keyword",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 30450,
+     "duration": 2300
+    },
+    "transform": {
+     "anchorPoint": [
+      540,
+      450
+     ],
+     "position": [
+      540,
+      450
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "layers": [
+     {
+      "type": "Text",
+      "id": 29,
+      "name": "SKILLS keyword",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 2300
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        40,
+        340
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "SKILLS",
+       "fontFamily": "Helvetica",
+       "fontStyle": "Bold",
+       "fontSize": 196,
+       "tracking": -1,
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "strokeWidth": 0,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        1000,
+        220
+       ],
+       "verticalAlign": "center"
+      },
+      "dropShadow": {
+       "color": [
+        0,
+        0,
+        0,
+        0.6
+       ],
+       "blurRadius": 28,
+       "spreadRadius": 0,
+       "blendMode": "normal",
+       "offset": [
+        0,
+        8
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "type": "Group",
+    "id": 17,
+    "name": "Skill title card",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 0,
+     "duration": 27170
+    },
+    "transform": {
+     "anchorPoint": [
+      0,
+      0
+     ],
+     "position": [
+      0,
+      0
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "layers": [
+     {
+      "type": "Image",
+      "id": 16,
+      "name": "Claude badge",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 27170
+      },
+      "transform": {
+       "anchorPoint": [
+        256,
+        256
+       ],
+       "position": [
+        846,
+        342
+       ],
+       "scale": [
+        29.5,
+        29.5
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "source": {
+       "assetId": "claude-logo",
+       "fit": "contain"
+      },
+      "cornerRadius": 34
+     },
+     {
+      "type": "Text",
+      "id": 2,
+      "name": "Title Product-Ad",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 2850
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        220,
+        366
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "Product-Ad Skill",
+       "fontFamily": "Helvetica",
+       "fontStyle": "Bold",
+       "fontSize": 60,
+       "tracking": -1,
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "strokeWidth": 0,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        603,
+        104
+       ],
+       "verticalAlign": "center"
+      }
+     },
+     {
+      "type": "Text",
+      "id": 3,
+      "name": "Title Paper-Cut",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 2850,
+       "duration": 2680
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        220,
+        366
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "Paper-Cut Skill",
+       "fontFamily": "Helvetica",
+       "fontStyle": "Bold",
+       "fontSize": 60,
+       "tracking": -1,
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "strokeWidth": 0,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        603,
+        104
+       ],
+       "verticalAlign": "center"
+      }
+     },
+     {
+      "type": "Text",
+      "id": 4,
+      "name": "Title AI-UGC",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 5530,
+       "duration": 3140
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        220,
+        366
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "AI-UGC Skill",
+       "fontFamily": "Helvetica",
+       "fontStyle": "Bold",
+       "fontSize": 60,
+       "tracking": -1,
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "strokeWidth": 0,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        603,
+        104
+       ],
+       "verticalAlign": "center"
+      }
+     },
+     {
+      "type": "Text",
+      "id": 5,
+      "name": "Title Director",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 8670,
+       "duration": 3060
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        220,
+        366
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "Director Skill",
+       "fontFamily": "Helvetica",
+       "fontStyle": "Bold",
+       "fontSize": 60,
+       "tracking": -1,
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "strokeWidth": 0,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        603,
+        104
+       ],
+       "verticalAlign": "center"
+      }
+     },
+     {
+      "type": "Text",
+      "id": 6,
+      "name": "Title Animation",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 11730,
+       "duration": 2660
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        220,
+        366
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "Animation Skill",
+       "fontFamily": "Helvetica",
+       "fontStyle": "Bold",
+       "fontSize": 60,
+       "tracking": -1,
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "strokeWidth": 0,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        603,
+        104
+       ],
+       "verticalAlign": "center"
+      }
+     },
+     {
+      "type": "Text",
+      "id": 7,
+      "name": "Title Content",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 14390,
+       "duration": 2700
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        220,
+        366
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "Content Skill",
+       "fontFamily": "Helvetica",
+       "fontStyle": "Bold",
+       "fontSize": 60,
+       "tracking": -1,
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "strokeWidth": 0,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        603,
+        104
+       ],
+       "verticalAlign": "center"
+      }
+     },
+     {
+      "type": "Text",
+      "id": 8,
+      "name": "Title Studio",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 17090,
+       "duration": 2600
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        220,
+        366
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "Studio Skill",
+       "fontFamily": "Helvetica",
+       "fontStyle": "Bold",
+       "fontSize": 60,
+       "tracking": -1,
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "strokeWidth": 0,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        603,
+        104
+       ],
+       "verticalAlign": "center"
+      }
+     },
+     {
+      "type": "Text",
+      "id": 9,
+      "name": "Title Ad",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 19690,
+       "duration": 2520
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        220,
+        366
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "Ad Skill",
+       "fontFamily": "Helvetica",
+       "fontStyle": "Bold",
+       "fontSize": 60,
+       "tracking": -1,
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "strokeWidth": 0,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        603,
+        104
+       ],
+       "verticalAlign": "center"
+      }
+     },
+     {
+      "type": "Text",
+      "id": 10,
+      "name": "Title Visual",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 22210,
+       "duration": 2780
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        220,
+        366
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "Visual Skill",
+       "fontFamily": "Helvetica",
+       "fontStyle": "Bold",
+       "fontSize": 60,
+       "tracking": -1,
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "strokeWidth": 0,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        603,
+        104
+       ],
+       "verticalAlign": "center"
+      }
+     },
+     {
+      "type": "Text",
+      "id": 11,
+      "name": "Title Creative-Ad",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 24990,
+       "duration": 2180
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        220,
+        366
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "Creative-Ad Skill",
+       "fontFamily": "Helvetica",
+       "fontStyle": "Bold",
+       "fontSize": 60,
+       "tracking": -1,
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "strokeWidth": 0,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        603,
+        104
+       ],
+       "verticalAlign": "center"
+      }
+     },
+     {
+      "type": "Text",
+      "id": 12,
+      "name": "Skill.md",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 27170
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        340,
+        482
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "Skill.md",
+       "fontFamily": "Helvetica",
+       "fontStyle": "Regular",
+       "fontSize": 44,
+       "tracking": -1,
+       "fillColor": [
+        0.62,
+        0.62,
+        0.66,
+        1
+       ],
+       "strokeWidth": 0,
+       "justification": "left",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        300,
+        70
+       ],
+       "verticalAlign": "center"
+      }
+     },
+     {
+      "type": "Shape",
+      "id": 13,
+      "name": "Folder icon",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 27170
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        284,
+        499
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "shape": {
+       "path": {
+        "commands": [
+         {
+          "type": "moveTo",
+          "x": 0,
+          "y": 6
+         },
+         {
+          "type": "lineTo",
+          "x": 12,
+          "y": 6
+         },
+         {
+          "type": "lineTo",
+          "x": 17,
+          "y": 12
+         },
+         {
+          "type": "lineTo",
+          "x": 40,
+          "y": 12
+         },
+         {
+          "type": "lineTo",
+          "x": 40,
+          "y": 34
+         },
+         {
+          "type": "lineTo",
+          "x": 0,
+          "y": 34
+         },
+         {
+          "type": "close"
+         }
+        ]
+       },
+       "fills": [],
+       "strokes": [
+        {
+         "paint": {
+          "type": "solid",
+          "color": [
+           0.62,
+           0.62,
+           0.66,
+           1
+          ]
+         },
+         "width": 3.2,
+         "cap": "round",
+         "join": "round",
+         "miterLimit": 4,
+         "blendMode": "normal",
+         "opacity": 100
+        }
+       ]
+      }
+     },
+     {
+      "type": "Shape",
+      "id": 14,
+      "name": "Chevron",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 27170
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        234,
+        506
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "shape": {
+       "path": {
+        "commands": [
+         {
+          "type": "moveTo",
+          "x": 0,
+          "y": 0
+         },
+         {
+          "type": "lineTo",
+          "x": 10,
+          "y": 11
+         },
+         {
+          "type": "lineTo",
+          "x": 0,
+          "y": 22
+         }
+        ]
+       },
+       "fills": [],
+       "strokes": [
+        {
+         "paint": {
+          "type": "solid",
+          "color": [
+           0.62,
+           0.62,
+           0.66,
+           1
+          ]
+         },
+         "width": 3.6,
+         "cap": "round",
+         "join": "round",
+         "miterLimit": 4,
+         "blendMode": "normal",
+         "opacity": 100
+        }
+       ]
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 15,
+      "name": "Title bar",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 27170
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        200,
+        340
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        683,
+        228
+       ],
+       "fillColor": [
+        0.075,
+        0.075,
+        0.09,
+        1
+       ],
+       "roundness": 0
+      }
+     }
+    ]
+   },
+   {
+    "type": "Group",
+    "id": 28,
+    "name": "Skill example cards",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 0,
+     "duration": 27170
+    },
+    "transform": {
+     "anchorPoint": [
+      0,
+      0
+     ],
+     "position": [
+      0,
+      0
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "layers": [
+     {
+      "type": "Video",
+      "id": 27,
+      "name": "Card 10 Creative-Ad",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 24990,
+       "duration": 2180
+      },
+      "sourceRange": {
+       "start": 24990,
+       "duration": 2180
+      },
+      "sourceIntrinsicDuration": 27166,
+      "volume": 0.0,
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        352,
+        1193
+       ],
+       "scale": [
+        101.6,
+        101.6
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "source": {
+       "assetId": "cards",
+       "fit": "contain"
+      }
+     },
+     {
+      "type": "Video",
+      "id": 26,
+      "name": "Card 9 Visual",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 22210,
+       "duration": 2780
+      },
+      "sourceRange": {
+       "start": 22210,
+       "duration": 2780
+      },
+      "sourceIntrinsicDuration": 27166,
+      "volume": 0.0,
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        352,
+        1193
+       ],
+       "scale": [
+        101.6,
+        101.6
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "source": {
+       "assetId": "cards",
+       "fit": "contain"
+      }
+     },
+     {
+      "type": "Video",
+      "id": 25,
+      "name": "Card 8 Ad",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 19690,
+       "duration": 2520
+      },
+      "sourceRange": {
+       "start": 19690,
+       "duration": 2520
+      },
+      "sourceIntrinsicDuration": 27166,
+      "volume": 0.0,
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        352,
+        1193
+       ],
+       "scale": [
+        101.6,
+        101.6
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "source": {
+       "assetId": "cards",
+       "fit": "contain"
+      }
+     },
+     {
+      "type": "Video",
+      "id": 24,
+      "name": "Card 7 Studio",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 17090,
+       "duration": 2600
+      },
+      "sourceRange": {
+       "start": 17090,
+       "duration": 2600
+      },
+      "sourceIntrinsicDuration": 27166,
+      "volume": 0.0,
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        352,
+        1193
+       ],
+       "scale": [
+        101.6,
+        101.6
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "source": {
+       "assetId": "cards",
+       "fit": "contain"
+      }
+     },
+     {
+      "type": "Video",
+      "id": 23,
+      "name": "Card 6 Content",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 14390,
+       "duration": 2700
+      },
+      "sourceRange": {
+       "start": 14390,
+       "duration": 2700
+      },
+      "sourceIntrinsicDuration": 27166,
+      "volume": 0.0,
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        352,
+        1193
+       ],
+       "scale": [
+        101.6,
+        101.6
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "source": {
+       "assetId": "cards",
+       "fit": "contain"
+      }
+     },
+     {
+      "type": "Video",
+      "id": 22,
+      "name": "Card 5 Animation",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 11730,
+       "duration": 2660
+      },
+      "sourceRange": {
+       "start": 11730,
+       "duration": 2660
+      },
+      "sourceIntrinsicDuration": 27166,
+      "volume": 0.0,
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        352,
+        1193
+       ],
+       "scale": [
+        101.6,
+        101.6
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "source": {
+       "assetId": "cards",
+       "fit": "contain"
+      }
+     },
+     {
+      "type": "Video",
+      "id": 21,
+      "name": "Card 4 Director",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 8670,
+       "duration": 3060
+      },
+      "sourceRange": {
+       "start": 8670,
+       "duration": 3060
+      },
+      "sourceIntrinsicDuration": 27166,
+      "volume": 0.0,
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        352,
+        1193
+       ],
+       "scale": [
+        101.6,
+        101.6
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "source": {
+       "assetId": "cards",
+       "fit": "contain"
+      }
+     },
+     {
+      "type": "Video",
+      "id": 20,
+      "name": "Card 3 AI-UGC",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 5530,
+       "duration": 3140
+      },
+      "sourceRange": {
+       "start": 5530,
+       "duration": 3140
+      },
+      "sourceIntrinsicDuration": 27166,
+      "volume": 0.0,
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        352,
+        1193
+       ],
+       "scale": [
+        101.6,
+        101.6
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "source": {
+       "assetId": "cards",
+       "fit": "contain"
+      }
+     },
+     {
+      "type": "Video",
+      "id": 19,
+      "name": "Card 2 Paper-Cut",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 2850,
+       "duration": 2680
+      },
+      "sourceRange": {
+       "start": 2850,
+       "duration": 2680
+      },
+      "sourceIntrinsicDuration": 27166,
+      "volume": 0.0,
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        352,
+        1193
+       ],
+       "scale": [
+        101.6,
+        101.6
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "source": {
+       "assetId": "cards",
+       "fit": "contain"
+      }
+     },
+     {
+      "type": "Video",
+      "id": 18,
+      "name": "Card 1 Product-Ad",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 2850
+      },
+      "sourceRange": {
+       "start": 0,
+       "duration": 2850
+      },
+      "sourceIntrinsicDuration": 27166,
+      "volume": 0.0,
+      "transform": {
+       "anchorPoint": [
+        0,
+        0
+       ],
+       "position": [
+        352,
+        1193
+       ],
+       "scale": [
+        101.6,
+        101.6
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "source": {
+       "assetId": "cards",
+       "fit": "contain"
+      }
+     }
+    ]
+   },
+   {
+    "type": "Video",
+    "id": 31,
+    "name": "Farhan A-roll",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 0,
+     "duration": 33800
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 33800
+    },
+    "sourceIntrinsicDuration": 33800,
+    "volume": 0.0,
+    "transform": {
+     "anchorPoint": [
+      0,
+      0
+     ],
+     "position": [
+      0,
+      0
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "source": {
+     "assetId": "aroll",
+     "fit": "contain"
+    }
+   },
+   {
+    "type": "Audio",
+    "id": 32,
+    "name": "Dialogue (normalized)",
+    "activeRange": {
+     "start": 0,
+     "duration": 33800
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 33800
+    },
+    "sourceIntrinsicDuration": 33800,
+    "source": {
+     "assetId": "dialogue-norm"
+    },
+    "volume": 1.0,
+    "captionsEnabled": false,
+    "windowMs": 50
+   },
+   {
+    "type": "Audio",
+    "id": 33,
+    "name": "Pop 2.85s",
+    "activeRange": {
+     "start": 2835,
+     "duration": 200
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 200
+    },
+    "sourceIntrinsicDuration": 200,
+    "source": {
+     "assetId": "pop"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false,
+    "windowMs": 50
+   },
+   {
+    "type": "Audio",
+    "id": 34,
+    "name": "Pop 5.53s",
+    "activeRange": {
+     "start": 5515,
+     "duration": 200
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 200
+    },
+    "sourceIntrinsicDuration": 200,
+    "source": {
+     "assetId": "pop"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false,
+    "windowMs": 50
+   },
+   {
+    "type": "Audio",
+    "id": 35,
+    "name": "Pop 8.67s",
+    "activeRange": {
+     "start": 8655,
+     "duration": 200
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 200
+    },
+    "sourceIntrinsicDuration": 200,
+    "source": {
+     "assetId": "pop"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false,
+    "windowMs": 50
+   },
+   {
+    "type": "Audio",
+    "id": 36,
+    "name": "Pop 11.73s",
+    "activeRange": {
+     "start": 11715,
+     "duration": 200
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 200
+    },
+    "sourceIntrinsicDuration": 200,
+    "source": {
+     "assetId": "pop"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false,
+    "windowMs": 50
+   },
+   {
+    "type": "Audio",
+    "id": 37,
+    "name": "Pop 14.39s",
+    "activeRange": {
+     "start": 14375,
+     "duration": 200
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 200
+    },
+    "sourceIntrinsicDuration": 200,
+    "source": {
+     "assetId": "pop"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false,
+    "windowMs": 50
+   },
+   {
+    "type": "Audio",
+    "id": 38,
+    "name": "Pop 17.09s",
+    "activeRange": {
+     "start": 17075,
+     "duration": 200
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 200
+    },
+    "sourceIntrinsicDuration": 200,
+    "source": {
+     "assetId": "pop"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false,
+    "windowMs": 50
+   },
+   {
+    "type": "Audio",
+    "id": 39,
+    "name": "Pop 19.69s",
+    "activeRange": {
+     "start": 19675,
+     "duration": 200
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 200
+    },
+    "sourceIntrinsicDuration": 200,
+    "source": {
+     "assetId": "pop"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false,
+    "windowMs": 50
+   },
+   {
+    "type": "Audio",
+    "id": 40,
+    "name": "Pop 22.21s",
+    "activeRange": {
+     "start": 22195,
+     "duration": 200
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 200
+    },
+    "sourceIntrinsicDuration": 200,
+    "source": {
+     "assetId": "pop"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false,
+    "windowMs": 50
+   },
+   {
+    "type": "Audio",
+    "id": 41,
+    "name": "Pop 24.99s",
+    "activeRange": {
+     "start": 24975,
+     "duration": 200
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 200
+    },
+    "sourceIntrinsicDuration": 200,
+    "source": {
+     "assetId": "pop"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false,
+    "windowMs": 50
+   },
+   {
+    "type": "Audio",
+    "id": 42,
+    "name": "Ping keyword",
+    "activeRange": {
+     "start": 30440,
+     "duration": 450
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 450
+    },
+    "sourceIntrinsicDuration": 450,
+    "source": {
+     "assetId": "ping"
+    },
+    "volume": 0.3,
+    "captionsEnabled": false,
+    "windowMs": 50
+   }
+  ]
+ }
+}

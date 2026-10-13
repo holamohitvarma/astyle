@@ -1,0 +1,6 @@
+.DS_Store
+*.tsrct
+# raw footage / renders (too large for git)
+projects/**/*.mp4
+projects/**/*.mov
+projects/**/*.wav
