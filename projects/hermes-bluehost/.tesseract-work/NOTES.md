@@ -18,3 +18,12 @@
 - Fonts (Helvetica.ttc, Baskerville.ttc, Plek) come from the v4 project; licensed, kept out of git (Assets/fonts/).
 - Rendering here is CPU (Mesa lavapipe); export uses --encoder-backend external-ffmpeg-command --ffmpeg-path /usr/bin/ffmpeg.
 - Not auditioned by ear (cloud session): audio checked by loudness measurement only.
+
+## v2 (2026-10-13): split screen only
+- User: no motion graphics; the whole reel is the SPLIT layout (B-roll top, Farhan zoomed bottom).
+- Beats in beats_v2.py (every beat SPLIT, new B-roll for the former graphic / full-frame beats); clips c*.mp4,
+  clip_ms_v2.json; re-cuts imported as c00r / c03r / c17r (build.py ALIAS).
+- Build: `V=v2 python3 cut.py && V=v2 python3 build.py`, then commit editable_v2.json to hermes-bluehost-v2.tsrct
+  and apply anim_v2.json. v1 project/scripts untouched (V defaults to v1).
+- Captions unchanged (Plek, ALL CAPS, tracking -1) on the seam for the whole video; layout-change whoosh/tap SFX kept.
+- Skipped the SSH-login terminal shot (shows the server IP and login).

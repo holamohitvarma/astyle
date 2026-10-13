@@ -7,12 +7,17 @@ import json, os, re, struct, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 from timing import seg_edit, m, ms, DUR, SPEECH, cues, ROOT  # noqa: E402
-from beats import BEATS, clip_size, SPLIT_Y, CAP_Y  # noqa: E402
+V = os.environ.get("V", "v1")                # V=v2 -> all-SPLIT edit, no motion graphics
+if V == "v2":
+    from beats_v2 import BEATS, clip_size, SPLIT_Y, CAP_Y  # noqa: E402
+else:
+    from beats import BEATS, clip_size, SPLIT_Y, CAP_Y  # noqa: E402
+PFX, SUF = ("c", "_v2") if V == "v2" else ("b", "")
 
 W, H = 1080, 1920
 SRC_MS = 39480
 DUR_MS, SPEECH_MS = int(round(DUR * 1000)), int(round(SPEECH * 1000))
-CLIP_MS = json.load(open(os.path.join(HERE, "clip_ms.json")))
+CLIP_MS = json.load(open(os.path.join(HERE, f"clip_ms{SUF}.json")))
 WHITE, INK, CORAL, CORAL_LT = [1, 1, 1, 1], [0.106, 0.102, 0.094, 1], [0.816, 0.412, 0.31, 1], [0.98, 0.56, 0.42, 1]
 CREAM, RULE, GREEN = [0.95, 0.93, 0.89, 1], [0.89, 0.86, 0.81, 1], [0.24, 0.75, 0.42, 1]
 PLEK = ("FoundryPlekW01-Regular", "Regular")
@@ -320,7 +325,7 @@ def g_nodocker(g0, d):
 GRAPHICS = {"loop": g_loop, "nosub": g_nosub, "skills": g_skills, "nodocker": g_nodocker}
 
 # ------------------------------------------------------------------ beats
-ALIAS = {"b08": "b08r", "b09": "b09r"}
+ALIAS = {"b08": "b08r", "b09": "b09r"} if V == "v1" else {"c00": "c00r", "c03": "c03r", "c17": "c17r"}
 beat_groups, cap_y_ranges, cap_off = [], [], []
 for bi, (fa, fb, lay, clip, opt) in enumerate(BEATS):
     fb = min(fb, 39.40)
@@ -328,7 +333,7 @@ for bi, (fa, fb, lay, clip, opt) in enumerate(BEATS):
     g1 = DUR_MS if bi == len(BEATS) - 1 else ms(fb)
     d = g1 - g0
     L, top = [], []
-    asset = f"b{bi:02d}" if clip else None
+    asset = f"{PFX}{bi:02d}" if clip else None
     if asset in ALIAS:                      # re-cut clips imported under a new asset id
         CLIP_MS[ALIAS[asset]] = CLIP_MS[asset]
         asset = ALIAS[asset]
@@ -348,8 +353,9 @@ for bi, (fa, fb, lay, clip, opt) in enumerate(BEATS):
                 wx, wy = (W - w) / 2, (SPLIT_Y - h) / 2
                 win = bvideo("Window", asset, 0, d, wx, wy, w, h, push=1.5, radius=26)
                 frame = rect("Window frame", wx - 3, wy - 3, w + 6, h + 6, WHITE, 0, d, r=29, shadow=SOFT_SH)
-                for X in (win, frame):
-                    rise(X)
+                if V == "v1":
+                    for X in (win, frame):
+                        rise(X)
                 pane += [win, frame]
                 SFX.append((g0 + 40, "soft-pop", 0.18))
         if "graphic" in opt:
@@ -380,7 +386,17 @@ for bi, (fa, fb, lay, clip, opt) in enumerate(BEATS):
             pop(b_, a_, 140); pop(b_t, a_, 140)
             top += [b_t, b_]
             SFX.append((g0 + a_, "soft-impact", 0.30))
-        L += top + [rect("Seam", 0, SPLIT_Y - 2, W, 4, CREAM, 0, d)] + farhan(fa, fb, g0, "split") + pane + grid(d) + \
+        fl = farhan(fa, fb, g0, "split")
+        if bi == len(BEATS) - 1:            # hold Farhan's last frame in the bottom pane through the end tail
+            last = fl[-1]
+            t0_ = last["activeRange"]["start"] + last["activeRange"]["duration"]
+            if d - t0_ > 20:
+                sc = last["transform"]["scale"][0] / 100
+                x_, y_ = last["transform"]["position"]
+                fl.append(fvideo("Farhan (split, tail hold)", t0_, d - t0_, 0, x_, y_, sc * 100,
+                                 rr_mask(-x_ / sc, (SPLIT_Y - y_) / sc, (W - x_) / sc, (H - y_) / sc, 0),
+                                 asset="aroll-tail", intrinsic=CLIP_MS["aroll-tail"]))
+        L += top + [rect("Seam", 0, SPLIT_Y - 2, W, 4, CREAM, 0, d)] + fl + pane + grid(d) + \
             [rect("Black", 0, 0, W, H, [0, 0, 0, 1], 0, d)]
     elif lay == "BROLL":
         if "live" in opt:
@@ -590,10 +606,10 @@ for st, p, v in sorted(SFX):
 doc = {"$schema": "https://jerboa.dev/schemas/fx-composition/editable/v1/document.schema.json", "formatVersion": 1,
        "dimensions": {"width": W, "height": H}, "duration": DUR,
        "composition": {"id": "main", "name": "Main", "layers": [captions] + list(reversed(beat_groups)) + audio}}
-json.dump(doc, open(os.path.join(HERE, "editable.json"), "w"), indent=1, ensure_ascii=False)
+json.dump(doc, open(os.path.join(HERE, f"editable{SUF}.json"), "w"), indent=1, ensure_ascii=False)
 _last = {}
 for a_ in anims:                       # a later keyframe set on the same layer property replaces the earlier one
     _last[(a_["property"]["layerId"], a_["property"]["propertyType"])] = a_
 anims = list(_last.values())
-json.dump(anims, open(os.path.join(HERE, "anim.json"), "w"), indent=1)
+json.dump(anims, open(os.path.join(HERE, f"anim{SUF}.json"), "w"), indent=1)
 print(f"{len(BEATS)} beats, {len(chunks)} captions, {len(SFX)} sfx, {DUR:.2f}s, {len(anims)} animated props")
